@@ -30,7 +30,7 @@ A: Possibly! Stay tuned for future updates.
 A: Open an issue on the issue tab.
 
 ### Q: You said you need curseforge to download it,but i use modrinth. Can i download from Modrinth?
-A: No,you can't. I tried to put it on the modrint but it got rejected.
+A: No,you can't. I tried to put it on the modrinth but it got rejected.
 
 ---
 
